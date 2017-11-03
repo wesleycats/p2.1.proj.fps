@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - Antidote Bar
+  - Manager
   layers:
   - Default
   - TransparentFX
