@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS y2 p2.1 GPR.Plugins", "FPS y2 p2.1 GPR.Plugins.csproj", "{90EBED17-D62C-89BF-3E5A-42741F86D50B}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS y2 p2.1 GPR", "FPS y2 p2.1 GPR.csproj", "{3CFE83B6-9B13-B4AD-321C-345AE6339077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPS y2 p2.1 GPR.Editor.Plugins", "FPS y2 p2.1 GPR.Editor.Plugins.csproj", "{4D9F65FF-13F5-AABF-75C6-D26558397306}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EBED17-D62C-89BF-3E5A-42741F86D50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EBED17-D62C-89BF-3E5A-42741F86D50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EBED17-D62C-89BF-3E5A-42741F86D50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EBED17-D62C-89BF-3E5A-42741F86D50B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3CFE83B6-9B13-B4AD-321C-345AE6339077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3CFE83B6-9B13-B4AD-321C-345AE6339077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CFE83B6-9B13-B4AD-321C-345AE6339077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CFE83B6-9B13-B4AD-321C-345AE6339077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D9F65FF-13F5-AABF-75C6-D26558397306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9F65FF-13F5-AABF-75C6-D26558397306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9F65FF-13F5-AABF-75C6-D26558397306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9F65FF-13F5-AABF-75C6-D26558397306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
